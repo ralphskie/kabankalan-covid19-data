@@ -1069,5 +1069,104 @@
       "deaths":0,
       "daily_case":47,
       "daily_recovery":6
-   }
+   },
+   {
+    "date": "2020-10-11",
+    "total_cases": 273,
+    "actives": 169,
+    "recovered": 104,
+    "deaths": 0,
+    "daily_case": 9,
+    "daily_recovery": 0
+  },
+  {
+    "date": "2020-10-12",
+    "total_cases": 273,
+    "actives": 161,
+    "recovered": 112,
+    "deaths": 0,
+    "daily_case": 0,
+    "daily_recovery": 8
+  },
+  {
+    "date": "2020-10-13",
+    "total_cases": 274,
+    "actives": 162,
+    "recovered": 112,
+    "deaths": 0,
+    "daily_case": 1,
+    "daily_recovery": 0
+  },
+  {
+    "date": "2020-10-14",
+    "total_cases": 282,
+    "actives": 170,
+    "recovered": 112,
+    "deaths": 0,
+    "daily_case": 8,
+    "daily_recovery": 0
+  },
+  {
+    "date": "2020-10-15",
+    "total_cases": 289,
+    "actives": 167,
+    "recovered": 122,
+    "deaths": 0,
+    "daily_case": 7,
+    "daily_recovery": 10
+  },
+  {
+    "date": "2020-10-16",
+    "total_cases": 291,
+    "actives": 161,
+    "recovered": 129,
+    "deaths": 1,
+    "daily_case": 2,
+    "daily_recovery": 7
+  },
+  {
+    "date": "2020-10-17",
+    "total_cases": 292,
+    "actives": 162,
+    "recovered": 129,
+    "deaths": 1,
+    "daily_case": 1,
+    "daily_recovery": 0
+  },
+  {
+    "date": "2020-10-18",
+    "total_cases": 292,
+    "actives": 162,
+    "recovered": 129,
+    "deaths": 1,
+    "daily_case": 0,
+    "daily_recovery": 0
+  },
+  {
+    "date": "2020-10-19",
+    "total_cases": 292,
+    "actives": 156,
+    "recovered": 135,
+    "deaths": 1,
+    "daily_case": 0,
+    "daily_recovery": 6
+  },
+  {
+    "date": "2020-10-20",
+    "total_cases": 292,
+    "actives": 152,
+    "recovered": 139,
+    "deaths": 1,
+    "daily_case": 0,
+    "daily_recovery": 4
+  },
+  {
+    "date": "2020-10-21",
+    "total_cases": 293,
+    "actives": 153,
+    "recovered": 139,
+    "deaths": 1,
+    "daily_case": 1,
+    "daily_recovery": 0
+  }
 ]
